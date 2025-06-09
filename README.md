@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lakshitachawla
 - 👀 I’m interested in Data Analysis and Artificial Intelligence
-- 🌱 I’m currently learning concepts of AI 
-- 📫 LinkedIn: www.linkedin.com/in/lakshita-c-b46375295
+- 🌱 I’m currently learning concepts of Machine Learning
+- 📫 LinkedIn: www.linkedin.com/in/lakshita-chawla2408
 - 😄 Pronouns: She/Her
 
 <!---
