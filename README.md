@@ -41,17 +41,6 @@ Analytical Computer Science professional with hands-on experience in **Machine L
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshitachawla&show_icons=true&theme=nord&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitachawla&layout=compact&langs_count=7&theme=nord&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitachawla&theme=nord&hide_border=false" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 <p align="left">
