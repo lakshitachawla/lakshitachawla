@@ -34,7 +34,7 @@ Analytical Computer Science professional with hands-on experience in **Machine L
 ---
 
 ### 🔬 Featured Projects
-* **Insight Stream | AI Financial Assistant**: Financial analytics platform using Flask and Python with **Isolation Forest** for anomaly detection.
+* **Insight Stream | AI Financial Assistant**: Financial analytics platform using Flask and Python for anomaly detection and growth simulation.
 * **Senti.co | Sentiment Analysis**: Real-time consumer feedback analysis using **NLP** and a responsive Tailwind UI.
 * **E-Commerce Recommender**: Collaborative filtering engine built with the **SVD algorithm** and RMSE evaluation.
 * **Customer Churn Prediction**: Logistic Regression model achieving **92% accuracy** through rigorous EDA and data cleaning.
