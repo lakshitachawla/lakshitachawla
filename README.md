@@ -11,8 +11,8 @@
 ### 👤 Professional Summary
 Analytical Computer Science professional with hands-on experience in **Machine Learning** and advanced **Data Analysis**. I specialize in building predictive models using Scikit-learn and creating interactive visualizations to drive data-driven decision-making.
 
-- 🎓 **Education:** Bachelor of Computer Applications (CGPA: 8.96).
-- 💼 **Experience:** Data Science Intern (Codec Technologies) & AI Intern (Ediglobe).
+- 🎓 **Education:** Master of Computer Applications (CGPA: NA) & Bachelor of Computer Applications (CGPA: 9.15).
+- 💼 **Experience:** AI/ML Intern  (IICT Delhi), Data Science Intern (Codec Technologies) & AI Intern (Ediglobe).
 - 🏆 **Achievement:** Recipient of Google Cloud Generative AI certifications.
 - 📬 **Reach me:** [LinkedIn](http://www.linkedin.com/in/lakshitachawla) | [Email](mailto:lakshitachawla691@gmail.com)
 
@@ -34,7 +34,7 @@ Analytical Computer Science professional with hands-on experience in **Machine L
 ---
 
 ### 🔬 Featured Projects
-* **Insight Stream | AI Financial Assistant**: Financial analytics platform using Flask and Python for anomaly detection and growth simulation.
+* **Trend Trace | Predictive Analytics & Auditing Tool**: AI-powered auditing and revenue forecasting platform built for small and medium businesses using **Python**.
 * **Senti.co | Sentiment Analysis**: Real-time consumer feedback analysis using **NLP** and a responsive Tailwind UI.
 * **E-Commerce Recommender**: Collaborative filtering engine built with the **SVD algorithm** and RMSE evaluation.
 * **Customer Churn Prediction**: Logistic Regression model achieving **92% accuracy** through rigorous EDA and data cleaning.
